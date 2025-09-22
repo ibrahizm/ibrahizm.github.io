@@ -1,3 +1,2 @@
 # ibrahizm.github.io
-site on the world wide web... 
-content soon. 
+the site of all time
